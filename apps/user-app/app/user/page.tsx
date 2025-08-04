@@ -10,5 +10,8 @@ export default function UserPage(){
 
 
         <button>this is a new button to test ci-cd concepts</button>
+
+
+        <button>delete me</button>
     </div>
 }
