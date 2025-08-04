@@ -13,5 +13,8 @@ export default function UserPage(){
 
 
         <button>delete me</button>
+
+
+        <button>click me button</button>
     </div>
 }
