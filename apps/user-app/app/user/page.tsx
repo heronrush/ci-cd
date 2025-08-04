@@ -4,5 +4,8 @@ export default function UserPage(){
 
 
         <h1>this is new h1 tag added to the file</h1>
+
+
+        <button>click me for testing purposes</button>
     </div>
 }
