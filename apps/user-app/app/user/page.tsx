@@ -7,5 +7,16 @@ export default function UserPage(){
 
 
         <button>click me for testing purposes</button>
+
+
+        <button>this is a new button to test ci-cd concepts</button>
+
+
+        <button>delete me</button>
+
+
+        <button>click me button</button>
+
+        <button>fixed the build.yml on main branch</button>
     </div>
 }
