@@ -7,5 +7,8 @@ export default function UserPage(){
 
 
         <button>click me for testing purposes</button>
+
+
+        <button>this is a new button to test ci-cd concepts</button>
     </div>
 }
